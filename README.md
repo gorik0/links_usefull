@@ -68,6 +68,19 @@
 [os Sheduler big explain ](https://blog.devtrovert.com/p/goroutine-scheduler-revealed-youll ).
 
 
+## DOCKER
+
+
+
+[Docker cmd/entrypoint/run](https://www.baeldung.com/ops/docker-cmd-override)
+
+
+[Docker cmd/entrypoint/run](https://habr.com/ru/companies/slurm/articles/329138/)
+
+
+
+[Docker cmd/entrypoint/run](https://habr.com/ru/articles/454552/)
+
 
 
 ## URL TOOLS
