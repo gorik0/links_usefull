@@ -77,9 +77,9 @@
 
 [Docker cmd/entrypoint/run](https://habr.com/ru/companies/slurm/articles/329138/)
 
+[Docker commit](https://habr.com/ru/articles/339610)
 
-
-[Docker cmd/entrypoint/run](https://habr.com/ru/articles/454552/)
+[Docker wait for-it.sh](https://habr.com/ru/articles/454552/)
 
 
 
