@@ -69,7 +69,7 @@
 
 
 ## DOCKER
-
+[DOCKER for nubies](https://habr.com/ru/articles/804325/)
 
 
 [Docker cmd/entrypoint/run](https://www.baeldung.com/ops/docker-cmd-override)
