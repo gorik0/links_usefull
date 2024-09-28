@@ -89,3 +89,9 @@
 
 
 [METHODS usefull info](https://habr.com/ru/companies/yandex/articles/265569/)
+
+
+
+## DATA BASE
+
+[Replication 7 strategies](https://estuary.dev/data-replication-strategies/)
