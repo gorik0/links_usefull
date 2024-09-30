@@ -58,6 +58,8 @@
 
 [Big info amount (close chan) ](https://go101.org/article/channel-closing.html ).
 
+[deadlock LIVALOCK   STARVATION ](https://medium.com/german-gorelkin/deadlocks-livelocks-starvation-ccd22d06f3ae)
+
 
 
 ## SHEDULER
